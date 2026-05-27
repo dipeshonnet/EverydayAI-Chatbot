@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Conversation {{ thread.id }}</title>
+  <link rel="stylesheet" href="/static/dashboard.css">
+</head>
+<body>
+  <main class="shell narrow">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Conversation</p>
+        <h1>{{ thread.name or 'Untitled thread' }}</h1>
+        <p class="meta-line">{{ thread.userIdentifier or 'Anonymous' }} - {{ display_datetime(thread.createdAt) }}</p>
+      </div>
+      <a class="back-link" href="/">Back</a>
+    </header>
+
+    <section class="conversation">
+      {% for step in steps %}
+        {% set text = step.output or step.input %}
+        {% if text %}
+          <article class="message {{ 'user' if step.type == 'user_message' else 'assistant' }}">
+            <div class="message-meta">
+              <span>{{ step.type.replace('_', ' ').title() }}</span>
+              <time>{{ display_datetime(step.createdAt) }}</time>
+            </div>
+            <pre>{{ text }}</pre>
+          </article>
+        {% endif %}
+      {% else %}
+        <p class="empty-state">This conversation does not have any messages yet.</p>
+      {% endfor %}
+    </section>
+  </main>
+</body>
+</html>

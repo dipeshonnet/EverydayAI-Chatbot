@@ -1,0 +1,165 @@
+AI-Powered Chatbot for Your Website
+Our OpenAI-based chatbot (other LLM platform's supported) understands your website content and provides instant, accurate responses to your customers 24/7, reducing support load and enhancing user experience. Get started below to personalize your solution, basis your business requirements.
+
+Get Started
+Pricing
+AI Chatbot Interface
+What Our Clients Say
+Dipesh came to us with great ideas to establish chatbots on our websites at affordable costs to produce and launch. We would recommend that you trust Dipesh with any of your future projects due his extensive knowledge and experience.
+
+Russell Browne
+Director of Australian Committee of Natural Therapies
+
+Exceptional work, and amazing work ethics
+Jacqueline M. Clayton
+Managing Director of Aeterna Health Qld, Gold Coast, Australia
+
+Enhance Customer Experience with AI Chatbot
+A smart chatbot that understands your website content and provides instant answers to your customers.
+
+24/7 automated customer support
+
+Reduce support ticket volume by up to 35%
+
+Instant answers to common questions
+
+Tailored to understand your specific website content
+
+Seamless handoff to human agents when needed
+
+Continuous learning and improvement
+
+Advanced Chatbot Features
+Our RAG-based chatbot comes with a comprehensive set of features to enhance customer interaction.
+
+RAG-Based Technology
+Our chatbot uses Retrieval Augmented Generation (RAG) to provide accurate answers based on your website content.
+
+Simple Integration
+We handle the entire implementation process, requiring minimal effort from your team.
+
+Analytics Dashboard
+Track chatbot performance, user satisfaction, and identify improvement opportunities.
+
+Multi-Channel Support
+Deploy the same chatbot across your website, mobile app, and social media platforms.
+
+Smart AI Chatbot Pricing
+Choose the perfect solution for your business needs. All plans include 24/7 availability and seamless integration.
+
+USDINRAUD
+Self-Managed
+Perfect for teams who want to maintain the chatbot themselves
+
+$165
+One-time deployment fee
++ We teach your team how to maintain
+Complete chatbot setup and deployment
+Training on your business documents
+Team training for maintenance
+Unlimited messages
+No ongoing maintenance fees (except what is charged by OpenAI and Chatbot hosting - $6/month)
+Get Started
+Most Popular
+Fully Managed
+We handle everything for you - setup, maintenance, and updates
+
+$55
+Setup fee
++ $22/month
+For maintenance & up to 3,000 messages
+Same cost as ChatGPT usage
+Everything in Self-Managed plan
+Ongoing maintenance and updates
+Up to 3,000 messages per month
+Priority technical support
+Regular content updates
+Get Started
+Higher Volume Plans
+Standard
+$39/month
+Up to 7,000 messages
+
+Perfect for growing businesses
+
+Professional
+$66/month
+Up to 15,000 messages
+
+For busy websites
+
+Enterprise
+Custom
+15,000+ messages
+
+Contact us for pricing
+
+Other Platforms that we use and maintain
+See all the available options. Get a free consultation to help you choose the right option basis your business needs. 
+
+Platform	Monthly Cost	Setup Time	RAG Support	Free Plan	Best Use Case
+EverydayAI.work	$22-66/month	1-2 weeks	
+Custom business solutions
+Botpress	$0-500+	Minutes	
+Quick RAG deployment
+Tidio	$0-100+	Hours	
+Small business e-commerce
+Intercom	$39-139/seat	1-2 weeks	
+Enterprise engagement
+Freshchat	$19-99/agent	1 week	
+Integrated support
+Zendesk	$115+/agent	1-2 weeks	
+Customer support
+Manychat	$0-50+	Hours	
+Social media integration
+Chatfuel	$0-100+	1 week	
+Multi-channel marketing
+Landbot	$0-50+	1 week	
+Lead generation
+Drift	$2,500+	1 week	
+Sales automation
+Tawk.to	Free	Hours	
+Budget-conscious
+ChatBot.com	$52-424	Hours	
+Quick implementation
+Crisp	$0-95	1 week	
+Modern interface
+Voiceflow	$40-140	1-2 weeks	
+Visual design
+Acquire.io	$500+	2 weeks	
+Enterprise communication
+Rasa	Free-$25k+	4-8 weeks	
+Custom development
+Frequently Asked Questions
+How long does implementation take?
+Implementation typically takes 1-2 weeks, depending on the size and complexity of your website.
+
+What happens if the chatbot can't answer a question?
+The chatbot can be configured to share appropriate email address or contact form to collect user contact information and transfer appropriately.
+
+Can I customize the chatbot's appearance?
+Yes, the chatbot's appearance can be fully customized to match your brand colors, logo, and design language.
+
+Ready to Add a Smart Chatbot to Your Website?
+Imagine if your website could answer customer questions 24/7, boost enquiries, and reduce time spent on repetitive tasks – all without needing a full-time team.
+
+Contact Us
+Book a Meeting
+Everyday AI Logo
+Transforming businesses with powerful AI solutions for better customer engagement and operational efficiency.
+
+Services
+AI Chatbot Solutions
+AI Transcription Services
+Consultation
+Company
+About Us
+Contact
+Book a Meeting
+Contact
+dipesh@everydayai.work
+Legal
+Privacy Policy
+Terms of Service
+Refund Policy
+© 2025 Everyday AI. All rights reserved.

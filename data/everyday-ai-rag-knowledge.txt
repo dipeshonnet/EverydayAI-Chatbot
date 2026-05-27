@@ -1,0 +1,581 @@
+Everyday AI Website Knowledge Base for RAG Chatbot
+Generated from the website content on 2026-04-26
+
+Purpose
+This plain text file summarizes the public Everyday AI website so a RAG chatbot can answer customer questions about the business, services, pricing, contact options, deployed tools, and engagement process.
+
+Primary chatbot behavior
+- Answer in a practical, business-friendly tone.
+- Start from the customer's workflow or business problem, not from a fixed tool list.
+- If a customer asks what Everyday AI does, explain that Everyday AI helps businesses find the work that is slowing them down, then designs practical AI tools to solve it.
+- If a customer is unsure what they need, recommend a free AI Discovery Call.
+- If a customer asks for pricing, direct them to the pricing section on the Why Everyday AI page at /about#pricing and summarize the relevant plan.
+- If pricing depends on scale, workflow complexity, message usage, page volume, hosting, integrations, or custom needs, say that final scope is confirmed after the free discovery call.
+- If a customer asks whether Everyday AI can build something outside chatbots, documents, or voice, say yes. Those are deployed examples, but custom workflows can be designed around the business need.
+- If the answer is not in this knowledge base, say that the team can confirm during a discovery call or by email at contact@everydayai.work.
+
+Core positioning
+Everyday AI helps businesses find the work that is slowing them down, then designs practical AI tools to solve it.
+
+Expanded positioning
+Everyday AI works with businesses to identify repetitive, manual, document-heavy, or communication-heavy processes where AI can create measurable value. Some tools are already deployed, including voice-to-text workflows, document processing, and custom website chatbots, but every solution starts with the business need, not a fixed product list.
+
+Website title
+Everyday AI | Practical AI for Business
+
+Website description
+Everyday AI helps businesses find the work slowing them down, then designs practical AI tools to solve it.
+
+Main contact details
+General email: contact@everydayai.work
+Email link: mailto:contact@everydayai.work
+Calendly discovery call URL: https://calendly.com/devani-dipesh/how-can-ai-transform-your-business
+Voice workflow demo scheduling URL on the voice page: https://calendly.com/devani-dipesh/30min
+Contact page: /contact
+Pricing page section: /about#pricing
+
+Website routes
+- Home: /
+- Custom AI Chatbots page route: /chatbot
+- Voice-to-Text Workflows: /transcriber
+- Complex Document Processing: /documents
+- Why Everyday AI: /about
+- Pricing section: /about#pricing
+- Contact / Book a Discovery Call: /contact
+- Privacy Policy: /privacy
+- Terms of Service: /terms
+- Refund Policy: /refund
+
+Navigation labels
+- Home
+- AI Solutions
+- Deployed Tools
+- Why Everyday AI
+- Book a Discovery Call
+- Under Deployed Tools: Complex Document Processing, Voice-to-Text Workflows, Custom AI Chatbots
+
+Primary calls to action
+- Book a Discovery Call
+- Explore Deployed Tools
+- Find My AI Opportunity
+- Discuss My Business Need
+- Explore Voice Workflows
+- Review My Document Process
+- Build a Custom Chatbot
+- Book an AI Opportunity Review
+- See Which Tool Fits My Business
+- Start with a Discovery Call
+- Book an AI Discovery Call
+- Share a Workflow Problem
+- View Pricing
+
+Homepage overview
+The homepage focuses on practical AI for real business workflows. It explains that Everyday AI helps identify where teams lose time, effort, and accuracy, then designs practical AI tools to improve the way the business works.
+
+Homepage hero
+Badge: Practical AI for real business workflows
+Headline: Find the Business Problems AI Can Actually Solve
+Subheadline: Everyday AI helps you identify where your team is losing time, effort, and accuracy, then designs practical AI tools to improve the way your business works.
+Supporting copy: Everyday AI does not start with a tool and force-fit it into a process. It starts with the workflow, pain points, and business goals. From there, Everyday AI recommends, customizes, or builds the right AI solution.
+Primary CTA: Book a Discovery Call
+Secondary CTA: Explore Deployed Tools
+Trust line: Custom AI workflows for real business problems; from admin effort and document handling to customer response and knowledge search.
+
+Problem-led section
+Title: Where Is Your Business Losing Time?
+Copy: Most businesses do not need AI in the abstract. They need help with the work that slows people down every day, such as typing, reading, searching, checking, replying, summarizing, routing, and following up. Everyday AI helps uncover those friction points and assess where AI can create the most practical value.
+CTA: Find My AI Opportunity
+
+Problem cards
+Manual Admin Work: Your team spends too much time typing notes, drafting updates, copying information, or re-entering the same details.
+Complex Documents: Important information is locked inside PDFs, forms, policies, reports, emails, or scanned files.
+Repetitive Customer Questions: Customers and prospects ask the same questions, but your team still has to respond manually.
+Scattered Business Knowledge: Answers exist somewhere, but people waste time searching through documents, folders, messages, and old files.
+Slow Follow-Ups: Calls, meetings, enquiries, and internal discussions do not turn into clear actions quickly enough.
+Process Gaps: You know something is inefficient, but the exact automation opportunity is not yet clearly defined.
+
+Approach section
+Title: We Start with the Problem, Not the Tool
+Copy: AI works best when it is designed around a real business workflow. Everyday AI helps businesses understand what should be automated, what should stay human, and where AI can support better speed, quality, and consistency.
+
+Approach steps
+1. Discover: Review how the work happens today, including people, documents, systems, decisions, and repeated effort.
+2. Diagnose: Identify where time is lost, where errors happen, where information gets stuck, and where AI can support the process.
+3. Design: Define the right AI workflow, including inputs, outputs, review points, business rules, and success measures.
+4. Build or Configure: Use existing deployed capabilities where they fit, or build a custom solution when the business need requires it.
+5. Improve: Test with real examples, refine the output, and improve the workflow based on usage and feedback.
+
+Solutions overview
+Title: AI Solutions Built Around Your Business Need
+Intro: The tools listed are examples of what Everyday AI has already deployed. They are not the limit of what can be built. A solution may use one capability, combine several, or require a custom workflow designed for the business.
+CTA: Discuss My Business Need
+
+Solution cards
+Voice-to-Text Workflows: Shift from typing to speaking. Capture notes, emails, form entries, updates, instructions, and follow-ups by speaking naturally into the places the team already writes.
+Complex Document Processing: Read, search, summarize, compare, and extract information from business documents such as PDFs, forms, reports, policies, and correspondence.
+Custom AI Chatbots: Deploy a branded assistant for website visitors or internal users, designed around content, customer journey, and business rules.
+Knowledge Search Assistants: Help teams ask questions across approved documents, FAQs, SOPs, policies, and internal knowledge instead of manually searching through files.
+Workflow Automation: Turn repetitive steps into guided AI-assisted workflows, from intake and classification to drafting, routing, checking, and reporting.
+Future AI Tools: As needs evolve, new tools can be designed around new use cases, teams, departments, and business processes.
+
+Voice-to-text homepage section
+Title: Stop Typing. Start Speaking.
+Copy: Typing slows down work that could be captured faster by voice. Everyday AI can help teams speak naturally and convert those thoughts into clean, structured, business-ready text. This is not just transcription. It is a shift in how work gets done, from manually typing into every field, note, email, or update to speaking the information once and letting AI prepare it for use.
+CTA: Explore Voice Workflows
+
+Voice use cases
+- Speak notes into any text box
+- Draft emails faster
+- Capture CRM updates after calls
+- Fill repetitive form fields
+- Turn rough thoughts into polished business writing
+- Convert spoken instructions into structured tasks
+- Create summaries, actions, and follow-ups from voice input
+
+Voice benefits
+- Less typing effort
+- Faster documentation
+- Better capture of detail
+- Reduced admin fatigue
+- More consistent written output
+
+Document processing homepage section
+Title: Turn Business Documents into Answers, Actions, and Structured Data
+Copy: Business-critical information is often trapped inside long, messy, or hard-to-read documents. Everyday AI can help process those documents so teams can find answers faster, extract the right details, and reduce manual review. The workflow can support source-grounded answers, structured extraction, document-aware search, and reviewable outputs. Modern AI document systems increasingly focus on parsing messy PDFs and scans into structured formats such as JSON or Markdown, which supports more reliable downstream automation.
+CTA: Review My Document Process
+
+Document processing can help with
+- Read and summarize long documents
+- Extract key fields from forms or reports
+- Compare information across multiple files
+- Classify documents by type or purpose
+- Flag missing or inconsistent details
+- Turn unstructured content into structured outputs
+- Support human review before final decisions
+
+Example documents
+- PDFs
+- Forms
+- Reports
+- Policies
+- Contracts
+- Invoices
+- Customer correspondence
+- Scanned or semi-structured documents
+
+Custom chatbot homepage section
+Title: Custom AI Chatbots Built for Your Business
+Copy: A chatbot should do more than sit on a website. It should help visitors get answers, capture useful information, qualify enquiries, guide users to the right next step, and reduce repetitive manual responses. Everyday AI builds custom chatbot experiences around business content, customer journey, tone, and workflow. The experience can be embedded into a website and designed without generic third-party branding or visible watermarking.
+CTA: Build a Custom Chatbot
+
+Custom chatbot features
+- Custom branding and user experience
+- Website embedding
+- Suggested starter questions
+- Streaming responses
+- File upload where useful
+- Chat history
+- Feedback capture
+- Lead qualification
+- Enquiry routing
+- Escalation to a human
+- Responses grounded in approved content
+
+Custom chatbot technical capability note
+Everyday AI supports embedded copilots, persistent chat threads, chat restoration, programmatic website integration, chat history, file uploads, feedback, authentication, and persistence where those capabilities fit the workflow. These capabilities can be translated into a polished custom business chatbot experience.
+
+AI discovery section
+Title: Not Sure What to Automate? That Is Where We Start.
+Copy: Customers do not need to arrive with a finished AI idea. Many businesses know they are losing time but are not sure which process should be automated first. Everyday AI helps assess workflows and identify the best starting point, where AI can reduce effort, improve speed, or make information easier to use.
+CTA: Book an AI Opportunity Review
+
+Discovery questions Everyday AI helps answer
+- Which tasks are repeated every day or every week?
+- Where does the team copy, paste, type, or re-enter information?
+- Which documents take too long to read or check?
+- Which customer questions are repeated most often?
+- Where do follow-ups get delayed?
+- Which process depends too much on one person's knowledge?
+- Where would faster information access improve decisions?
+
+Trust section
+Title: Designed for Practical Business Use
+Copy: AI adoption fails when tools are generic, unreliable, or disconnected from how the business actually works. Everyday AI focuses on practical workflows that can be tested, reviewed, and improved using real business examples.
+
+Trust feature cards
+Grounded in Your Business: AI responses can be connected to approved documents, FAQs, policies, and knowledge sources.
+Built for Review: Sensitive workflows can include human approval points before final action.
+Designed for Accuracy: Document-aware search, structured extraction, and source-grounded responses can help reduce guesswork.
+Custom to the Workflow: The solution can be designed around the business process, not just a generic tool interface.
+Built to Evolve: New tools and capabilities can be added as business needs change.
+Focused on Adoption: The goal is not just to build AI, but to make it useful enough for people to actually use.
+
+Deployed tools section
+Title: Examples of AI Tools Already Deployed
+Copy: These tools show what is possible today. They can be used as starting points, combined into larger workflows, or adapted into new solutions based on the business need.
+CTA: See Which Tool Fits My Business
+
+Deployed tools
+Voice-to-Text Assistant: For teams that want to reduce typing and capture information faster by speaking into text fields, forms, notes, and business systems.
+Complex Document Processor: For businesses that need to extract, summarize, compare, or structure information from long or messy documents.
+Custom Website Chatbot: For businesses that want a branded AI assistant to answer questions, capture enquiries, and support website visitors.
+Knowledge Assistant: For teams that want to ask questions across documents, SOPs, policies, or FAQs instead of manually searching.
+Custom Workflow Assistant: For business-specific processes where AI can support intake, drafting, checking, routing, summarizing, or reporting.
+
+Industries and functions section
+Title: Useful Across Teams, Functions, and Industries
+Copy: Every business has different friction points. Everyday AI can support any team where work depends on documents, communication, repeated questions, manual typing, or scattered knowledge.
+
+Function cards
+Operations: Standardize repetitive processes, document handling, reporting, and internal follow-ups.
+Sales: Capture enquiry details, draft responses, summarize calls, and improve lead qualification.
+Customer Support: Answer repeated questions faster and give teams easier access to approved information.
+Administration: Reduce typing, re-entry, form filling, and manual document preparation.
+Consulting and Advisory: Turn client inputs, calls, notes, and documents into structured outputs.
+Leadership: Get faster summaries, clearer information, and the right dashboard for easy metrics visibility across recurring process issues.
+
+How engagement works
+Title: A Simple Path from Business Problem to AI Workflow
+Step 1: Discovery call - Understand business, current process, pain points, and goals.
+Step 2: Workflow review - Map where time is being lost and identify the best AI opportunity.
+Step 3: Solution recommendation - Recommend whether to use an existing deployed tool, adapt one, or build something custom.
+Step 4: Prototype - Test the workflow using realistic examples from the business.
+Step 5: Launch - Deploy the AI workflow in a practical format the team can use.
+Step 6: Improve - Refine the tool based on feedback, usage, and new business requirements.
+CTA: Start with a Discovery Call
+
+Why Everyday AI homepage section
+Title: Practical AI, Built Around Real Work
+Copy: Everyday AI is not about selling a fixed list of tools. It is about helping businesses understand where AI can create the most value, then building practical solutions that fit the work already happening.
+
+Differentiators
+Problem-first approach: Everyday AI begins by finding the business problem worth solving.
+Custom development: The solution can be adapted or built around the workflow, brand, content, and users.
+Existing capability base: Everyday AI already has deployed tools across voice workflows, document processing, and chatbot experiences.
+Open-ended roadmap: The business is not limited to today's tools. New AI workflows can be created as needs evolve.
+Business-user focus: The final experience is designed for people who need useful outcomes, not technical complexity.
+
+Homepage FAQ
+Q: Do I need to know what AI tool I want?
+A: No. Customers can start with the business problem. Everyday AI helps identify where the team is losing time, where manual effort is high, and where AI can create practical value.
+
+Q: Are Everyday AI solutions limited to voice, documents, and chatbots?
+A: No. Those are examples of tools already deployed. Future tools and custom workflows can be designed based on the business need.
+
+Q: Can Everyday AI build something custom?
+A: Yes. Everyday AI can adapt existing capabilities or build a custom AI workflow around the process, content, users, and desired output.
+
+Q: What powers the document intelligence capability?
+A: Document and knowledge workflows can use modern retrieval, parsing, indexing, and extraction approaches. In some cases this may include LlamaIndex, which supports document parsing, structured extraction, indexing, and retrieval-augmented workflows.
+
+Q: What powers the chatbot experience?
+A: Everyday AI supports custom web chatbot experiences with embedded copilots, persistent chat threads, chat restoration, and website integration when those capabilities fit the workflow.
+
+Q: Is the voice tool just transcription?
+A: No. The goal is not simply to create transcripts. The goal is to change how people work by letting them speak into text boxes, forms, notes, emails, and business systems, then using AI to clean, structure, and prepare the text.
+
+Q: Can AI use our own business documents?
+A: Yes. AI workflows can be designed to use approved business documents, FAQs, policies, SOPs, and knowledge sources so answers are grounded in the customer's own information.
+
+Q: How do we start?
+A: Start with a discovery call. Everyday AI reviews the current workflow, identifies the highest-value AI opportunity, and recommends whether an existing tool, adapted solution, or custom build is the right fit.
+
+Homepage final CTA
+Title: Find the First AI Workflow Worth Building
+Copy: Customers do not need a full AI strategy to get started. They need to find one business problem where AI can save time, improve quality, or make work easier. Everyday AI helps find that opportunity, then turns it into a practical workflow the team can use.
+Primary CTA: Book an AI Discovery Call
+Secondary CTA: Share a Workflow Problem
+
+Complex Document Processing page
+Route: /documents
+Page purpose: Explain document review, document parsing, rubric workflows, university admissions use case, and human review for borderline decisions.
+
+Document page hero
+Headline: Turn document review into a clear decision workflow
+Copy: Everyday AI helps teams read, search, summarize, compare, and extract information from business documents such as PDFs, forms, reports, policies, contracts, and correspondence. Workflows can use LlamaIndex document parsing where it fits the use case.
+CTAs: Review My Document Process, Book a Review Call, View Pricing.
+
+Document capabilities
+Parse complex document packs: Use LlamaIndex and LlamaParse to turn PDFs, scans, tables, forms, and supporting files into clean structured outputs.
+Apply your rubric consistently: Run admissions rules against extracted fields, classify document types, and score the application against the customer's rubric.
+Route judgment calls to people: Auto-clear strong admits and obvious rejects while sending borderline cases to reviewers with the evidence already organized.
+
+Document technology positioning
+LlamaIndex provides the document parsing and extraction layer where appropriate. Everyday AI adds the customer's rubric, review queue, integrations, and operational workflow.
+
+University admissions use case
+Title: Use case: university admissions review
+Copy: Admissions teams can process large application volumes while keeping faculty or staff judgment focused on borderline files.
+
+University admissions process flow
+Step 1: Application Pack - Transcripts, SOPs, references, IDs, test scores, and supporting forms arrive from the portal.
+Step 2: LlamaIndex Parsing - LlamaParse extracts text, tables, layouts, and structured fields from complex documents.
+Step 3: Rubric Engine - Rules check academic fit, prerequisites, English evidence, completeness, and policy exceptions.
+Step 4: Decision Queue - Strong admits and clear rejects are summarized; borderline files move to human review.
+Step 5: Human Review - Reviewers see extracted evidence, rubric gaps, confidence notes, and suggested follow-up questions.
+Step 6: System Update - Final decision, reviewer notes, and status are pushed back to the customer's CRM, SIS, spreadsheet, or workflow tool.
+
+Example rubric signals
+- Academic eligibility and prerequisite coverage
+- Document completeness and authenticity checks
+- Statement-of-purpose alignment with program criteria
+- Reference strength and evidence of readiness
+- Reviewer confidence score for borderline decisions
+
+Borderline review
+Reviewers see extracted facts, rubric gaps, confidence score, and recommended follow-up questions before making the final call.
+
+Document page final CTA
+Title: Bring structure to document-heavy decisions
+Copy: Everyday AI can adapt this workflow for admissions, compliance, claims, vendor onboarding, internal approvals, and other review-heavy processes.
+CTAs: Start With One Workflow, View Pricing.
+
+Voice-to-Text Workflows page
+Route: /transcriber
+Page purpose: Explain voice capture workflows that reduce repetitive typing and convert spoken context into usable business text.
+
+Voice page hero
+Headline: Voice-to-Text Workflows for Everyday Business Work
+Copy: Stop typing the same information into notes, emails, forms, and systems. Speak naturally, then let AI prepare clean, structured, business-ready text the team can use.
+CTAs: Explore Voice Workflows, Schedule Demo, View Pricing.
+
+Voice page core message
+Title: Stop Typing. Start Speaking.
+Copy: This is not just transcription. It is a shift in how work gets done. Speak once, then let AI clean, structure, and prepare the text.
+
+Voice page benefits
+- Less typing effort
+- Faster documentation
+- Better capture of detail
+- Reduce agent fatigue and improve morale
+- More consistent written output
+- Create summaries, actions, and follow-ups from voice input
+
+Voice workflow demo
+Title: Try the Voice-to-Text Workflow
+Copy: Speak into the microphone and see how voice can become usable text for business notes, updates, and follow-ups.
+Demo iframe URL: https://dreamy-marshmallow-895056.netlify.app
+Microphone permission may be required.
+
+Voice workflow features
+Speak Into Text Fields: Capture notes, emails, form entries, updates, and instructions by speaking naturally.
+AI Cleanup and Structuring: Turn rough spoken thoughts into clean, structured, business-ready writing.
+Follow-Up Drafting: Convert spoken context into summaries, actions, tasks, and follow-up messages.
+Workflow Integration: Use voice capture in the places the team already writes, documents, and updates.
+
+Voice page FAQ
+Q: Is the voice tool just transcription?
+A: No. The goal is to let people speak into text boxes, forms, notes, emails, and business systems, then use AI to clean, structure, and prepare the output.
+
+Q: Can it handle multiple languages?
+A: Yes. The system supports multiple languages and can be configured for specific needs.
+
+Q: What technical requirements are needed?
+A: A stable internet connection and standard call center equipment are all that is required. Everyday AI handles integration with existing systems.
+
+Q: How long does training and implementation take?
+A: Implementation typically takes 1 to 2 weeks, with agent training completed in 1 to 2 days.
+
+Voice page final CTA
+Title: Ready to Reduce Repetitive Typing?
+Copy: Share the places where the team types the same information repeatedly, and Everyday AI will help identify the best voice workflow to start with.
+CTAs: Review My Voice Workflow, Book a Discovery Call, View Pricing.
+
+Why Everyday AI page
+Route: /about
+Page purpose: Explain why to work with Everyday AI, the business approach, deployed capability areas, experience, and pricing.
+
+Why Everyday AI hero
+Title: Why Everyday AI
+Headline: Practical AI, built around real business work.
+
+Our story
+Everyday AI helps businesses find the work that is slowing them down, then designs practical AI tools to solve it. The company works with businesses to identify repetitive, manual, document-heavy, or communication-heavy processes where AI can create measurable value. Every solution starts with the business need.
+
+Team experience
+Everyday AI brings experience from Amazon, Accenture Strategy, Capgemini, and founder-led startups.
+
+About page solution cards
+Custom AI Chatbots: Improve website conversations with a RAG-based assistant that answers questions, surfaces proof, and guides the next step.
+Voice-to-Text Workflows: Help teams speak updates, notes, emails, and instructions instead of typing the same information repeatedly.
+Complex Document Processing: Parse document packs, apply rubrics, and route borderline cases to human reviewers with the evidence ready.
+Seamless Implementation: Everyday AI handles the technical integration, helping minimize disruption to existing operations.
+
+Our experience section
+Amazon: Deep experience with innovative technologies and customer-centric solutions at scale.
+Founder's Office: Worked with startup founders to drive growth through technology adoption and quick implementation.
+Practical AI Consulting: Finds and implements workflows that automate tasks and increase capability.
+
+Why Everyday AI highlights
+Risk-Free Implementation: Only pay after the customer has tested and is satisfied with the solutions.
+Tailored to Your Business: Custom deployed solutions integrate smoothly with existing systems.
+Ongoing Support: Regular maintenance and updates keep AI solutions performing optimally.
+
+Implementation approach
+Understand: Learn the workflow, pain points, goals, systems, documents, and people involved.
+Customize: Adapt an existing deployed tool or design a custom workflow around the need.
+Implement: Deploy the workflow, train the team, and refine with real usage.
+
+About page final CTA
+Title: Ready to Find the Right AI Opportunity?
+Copy: Review the work slowing the team down and identify the first AI workflow worth building.
+CTAs: Share a Workflow Problem, Schedule a Call.
+
+Pricing section
+Route: /about#pricing
+Important: First discovery call is free.
+Important: Pricing is shown in an inline tab structure by solution.
+Important: Currency tabs are available for USD, INR, and AUD.
+Default currency: USD.
+Pricing CTA: Discuss This Pricing.
+Exchange assumptions used by the website display:
+- USD: 1
+- INR: 85 times USD amount
+- AUD: 1.5 times USD amount
+Important: Custom pricing is available at scale for larger page volumes, higher message usage, multi-workflow deployments, deeper integrations, or more complex requirements.
+Important: Final scope is confirmed after the free discovery call.
+
+Pricing plan: AI Discovery Call
+Tab label: Discovery
+Price in USD: Free
+Cadence: First call
+Description: Everyday AI reviews the workflow, identifies the highest-value AI opportunity, and recommends the right starting point.
+Includes: Workflow and pain-point review; initial AI opportunity assessment; recommendation for existing, adapted, or custom solution; clear next step before any paid work.
+
+Pricing plan: Custom AI Chatbots
+Tab label: Chatbots
+Price in USD: From $49 setup
+Cadence: plus usage and hosting
+Description: A branded assistant for website visitors or internal users, designed around the customer's content, customer journey, and business rules.
+Includes: Custom website embedding and branding; responses grounded in approved content; conversation history and review options; lead capture, routing, and escalation flows.
+
+Pricing plan: Complex Document Processing
+Tab label: Documents
+Price in USD: $49 setup
+Cadence in USD: plus $1.00 per page per month under 100 pages
+Description: Document parsing and review workflows for PDFs, forms, reports, policies, contracts, correspondence, and semi-structured files.
+Includes: Document type and field setup; rubric and output structure design; per-page processing for smaller batches; human review points for sensitive decisions.
+
+Pricing plan: Voice-to-Text Workflows
+Tab label: Voice
+Price in USD: From $118
+Cadence in USD: plus $59 per month maintenance
+Description: Voice capture workflows for notes, emails, forms, updates, instructions, summaries, actions, and follow-ups.
+Includes: Workflow review and implementation; voice capture for business writing tasks; CRM and system integration where needed; team training, support, and updates.
+
+Pricing plan: Custom Workflow Automation
+Tab label: Custom
+Price: Scoped after discovery
+Cadence: Based on workflow complexity
+Description: Custom AI-assisted workflows for intake, classification, drafting, routing, checking, summarizing, or reporting.
+Includes: Problem-first workflow design; prototype with realistic examples; review points and business rules; launch and improvement plan.
+
+Pricing examples by currency
+USD:
+- Custom AI Chatbots: From $49 setup, plus usage and hosting.
+- Complex Document Processing: $49 setup, plus $1.00 per page per month under 100 pages.
+- Voice-to-Text Workflows: From $118, plus $59 per month maintenance.
+
+INR:
+- Custom AI Chatbots: From approximately INR 4,165 setup, plus usage and hosting.
+- Complex Document Processing: approximately INR 4,165 setup, plus INR 85.00 per page per month under 100 pages.
+- Voice-to-Text Workflows: From approximately INR 10,030, plus INR 5,015 per month maintenance.
+
+AUD:
+- Custom AI Chatbots: From approximately AUD 74 setup, plus usage and hosting.
+- Complex Document Processing: approximately AUD 74 setup, plus AUD 1.50 per page per month under 100 pages.
+- Voice-to-Text Workflows: From approximately AUD 177, plus AUD 89 per month maintenance.
+
+Contact page
+Route: /contact
+Page purpose: Let customers book a discovery call, share workflow problems, or contact Everyday AI by email.
+
+Contact page hero
+Title: Book a Discovery Call
+Copy: Share the workflow that is slowing the team down. Everyday AI will help identify whether an existing AI tool, adapted workflow, or custom build is the right starting point.
+
+Contact options
+Share a Workflow Problem: Tell Everyday AI where the team is losing time and the team will help assess the AI opportunity. CTA opens the contact form.
+Book a Discovery Call: Schedule a call to review the process and identify the best starting point. CTA opens the Calendly discovery call link.
+Email Us: Reach out directly via email and Everyday AI will respond as soon as possible. Email: contact@everydayai.work.
+
+Contact form
+The contact form uses Netlify Forms.
+Fields: name, email, company, phone, message.
+Phone number default country code: +61, Australian phone code.
+Phone placeholder: +61 4XX XXX XXX
+Message placeholder: Tell us about your project or inquiry...
+Submit button: Send Message
+Success message: Message sent successfully. Thanks. Your discovery request has been submitted.
+Error message: Message could not be sent. Please email contact@everydayai.work while the Netlify Forms setup is checked.
+
+Calendly CTA on contact page
+Title: Schedule an AI Discovery Call
+Copy: Book a 30-minute call to review the process, pain points, and the first AI workflow worth testing.
+During the call, Everyday AI will understand the current workflow and business goals, identify where time, effort, or accuracy is being lost, recommend an existing, adapted, or custom AI workflow, and define a practical next step for testing the idea.
+
+Testimonials
+Russell Browne, Director of Australian Committee of Natural Therapies:
+Dipesh came with great ideas to establish chatbots on websites at affordable costs to produce and launch. Russell recommends trusting Dipesh with future projects due to his knowledge and experience.
+
+Jacqueline M. Clayton, Managing Director of Aeterna Health Qld, Gold Coast, Australia:
+Exceptional work and amazing work ethics. She describes the result as like hiring a full-time sales and support team without payroll.
+
+Privacy policy summary
+Everyday AI may collect personal information, business information and requirements, workflow inputs, chat conversations, document data, voice outputs, and usage data when customers interact with services. Customers with privacy questions should contact Everyday AI.
+
+Terms of service summary
+Everyday AI provides AI-powered workflow solutions, custom chatbots, voice-to-text workflows, complex document processing, consultation, and related support. Customers should use services lawfully and understand that AI outputs may need human review, especially for sensitive decisions.
+
+Refund policy summary
+All sales are final once work has begun or services are delivered. The refund policy covers custom chatbots, managed workflow setup and maintenance, monthly subscriptions, voice-to-text workflows, consultation and support, custom development, hosting, and technical services. Customers should confirm requirements during discovery and scoping.
+
+Recommended chatbot responses by topic
+
+If asked "What does Everyday AI do?"
+Everyday AI helps businesses find repetitive, manual, document-heavy, or communication-heavy work that is slowing them down, then designs practical AI tools and workflows to solve it. Deployed examples include custom AI chatbots, voice-to-text workflows, document processing, knowledge search, and custom workflow automation.
+
+If asked "Do I need to know what AI tool I want?"
+No. Everyday AI starts with the business problem. The free discovery call is designed to identify where time is being lost and what AI opportunity is worth testing first.
+
+If asked "How much does it cost?"
+The first AI Discovery Call is free. Pricing is listed on /about#pricing. Current USD starting prices include Custom AI Chatbots from $49 setup plus usage and hosting, Complex Document Processing at $49 setup plus $1.00 per page per month under 100 pages, and Voice-to-Text Workflows from $118 plus $59 per month maintenance. Custom workflow automation is scoped after discovery. Custom pricing is available at scale.
+
+If asked "Can you process admission documents?"
+Yes. Everyday AI can support university admissions review by parsing application packs with tools such as LlamaIndex and LlamaParse, applying admissions rubrics, summarizing strong admits and clear rejects, and routing borderline cases to human reviewers with extracted evidence, gaps, confidence notes, and suggested follow-up questions.
+
+If asked "What documents can you process?"
+Everyday AI can work with PDFs, forms, reports, policies, contracts, invoices, customer correspondence, scanned documents, semi-structured files, and other document packs. Workflows can include extraction, summarization, comparison, classification, missing-detail checks, structured outputs, and human review.
+
+If asked "Is the voice workflow just transcription?"
+No. The voice workflow is designed to change how work gets done. It lets users speak into text boxes, notes, forms, emails, and systems, then uses AI to clean, structure, summarize, and prepare the text for business use.
+
+If asked "Can you build a chatbot for my website?"
+Yes. Everyday AI builds custom branded website chatbots around approved content, customer journey, tone, business rules, starter questions, chat history, feedback capture, lead qualification, enquiry routing, and escalation to a human when needed.
+
+If asked "Can AI answer using our documents?"
+Yes. Everyday AI workflows can be grounded in approved business documents, FAQs, policies, SOPs, and knowledge sources so answers are based on the customer's own information.
+
+If asked "Can you integrate with our systems?"
+Everyday AI can design workflows that connect with existing systems where needed, including CRM, SIS, spreadsheets, workflow tools, websites, and business processes. Specific integrations should be discussed during discovery.
+
+If asked "How do we start?"
+Start by booking a free AI Discovery Call at https://calendly.com/devani-dipesh/how-can-ai-transform-your-business or by submitting the contact form at /contact. Everyday AI will review the workflow, identify the highest-value AI opportunity, and recommend the best next step.
+
+If asked "What is the best first project?"
+The best first project is usually a repeated workflow with visible time loss, manual copying or typing, document review, repeated customer questions, delayed follow-ups, or scattered knowledge. Everyday AI helps identify the highest-value starting point during discovery.
+
+If asked "Do you support human review?"
+Yes. Sensitive workflows can include human review and approval points. For example, borderline admissions cases can be routed to reviewers with extracted evidence, rubric gaps, confidence notes, and suggested follow-up questions before a final decision.
+
+If asked "Are prices fixed?"
+Starting prices are published for common workflows, but final pricing depends on volume, integrations, complexity, hosting, usage, and support needs. Custom pricing is available at scale.
+
+If asked "Which currency is pricing available in?"
+The pricing section supports USD, INR, and AUD, with USD as the default tab.
+
+If asked "Where should I go for pricing?"
+Direct the user to /about#pricing.
+
+If asked "Where should I go to contact Everyday AI?"
+Direct the user to /contact, the Calendly discovery call link, or contact@everydayai.work.

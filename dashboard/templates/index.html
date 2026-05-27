@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Everyday AI Conversations</title>
+  <link rel="stylesheet" href="/static/dashboard.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Everyday AI</p>
+        <h1>Conversation Dashboard</h1>
+      </div>
+    </header>
+
+    <section class="stats-grid" aria-label="Conversation stats">
+      <article>
+        <span>Threads</span>
+        <strong>{{ stats.threads or 0 }}</strong>
+      </article>
+      <article>
+        <span>User Messages</span>
+        <strong>{{ stats.user_messages or 0 }}</strong>
+      </article>
+      <article>
+        <span>Assistant Replies</span>
+        <strong>{{ stats.assistant_messages or 0 }}</strong>
+      </article>
+      <article>
+        <span>Feedback</span>
+        <strong>{{ stats.feedbacks or 0 }}</strong>
+      </article>
+    </section>
+
+    <section class="table-panel">
+      <div class="panel-heading">
+        <h2>Recent Conversations</h2>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Started</th>
+              <th>Last Activity</th>
+              <th>User</th>
+              <th>First Message</th>
+              <th>Steps</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for thread in threads %}
+              <tr onclick="window.location='/threads/{{ thread.id }}'">
+                <td>{{ display_datetime(thread.createdAt) }}</td>
+                <td>{{ display_datetime(thread.last_activity) }}</td>
+                <td>{{ thread.userIdentifier or 'Anonymous' }}</td>
+                <td class="message-cell">{{ thread.first_message or thread.name or 'Untitled conversation' }}</td>
+                <td>{{ thread.step_count }}</td>
+              </tr>
+            {% else %}
+              <tr>
+                <td colspan="5" class="empty-state">No conversations have been logged yet.</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

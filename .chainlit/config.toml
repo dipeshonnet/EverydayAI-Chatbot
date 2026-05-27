@@ -1,0 +1,28 @@
+[project]
+enable_telemetry = false
+user_env = []
+session_timeout = 3600
+user_session_timeout = 1296000
+cache = false
+
+[features]
+unsafe_allow_html = false
+latex = false
+user_message_autoscroll = true
+auto_tag_thread = true
+edit_message = false
+
+[features.spontaneous_file_upload]
+enabled = false
+accept = ["text/plain"]
+max_files = 1
+max_size_mb = 10
+
+[UI]
+name = "Everyday AI"
+description = "Everyday AI assistant"
+cot = "hidden"
+alert_style = "classic"
+
+[meta]
+generated_by = "2.8.3"

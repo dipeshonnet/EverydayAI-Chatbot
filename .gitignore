@@ -1,0 +1,13 @@
+node_modules/
+.venv/
+.pydeps/
+.files/
+.railway-cli/
+.railway/
+.chainlit/translations/
+__pycache__/
+storage/
+chainlit.out.log
+chainlit.err.log
+.env
+public/zoe-avatar.svg

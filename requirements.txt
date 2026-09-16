@@ -1,7 +1,9 @@
 chainlit
 llama-index-core
-llama-index-llms-openai
-llama-index-embeddings-openai
+llama-index-llms-openai-like==0.8.0
+llama-index-embeddings-fastembed==0.7.0
+fastembed==0.8.0
+tokenizers
 openai
 python-dotenv
 SQLAlchemy

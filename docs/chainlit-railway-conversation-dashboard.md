@@ -45,7 +45,7 @@ You need:
 - A Railway project.
 - Railway CLI installed and logged in.
 - The Chainlit app deployed as a Railway service.
-- A secret such as `OPENAI_API_KEY` already configured on the chatbot service, if your bot needs it.
+- `GROQ_API_KEY` configured on the chatbot service for Groq replies. Knowledge search uses local FastEmbed embeddings, so no OpenAI key is required. See the README for model download/cache setup and live validation.
 
 Check login:
 
@@ -74,8 +74,10 @@ For this project, the root `requirements.txt` contains:
 ```text
 chainlit
 llama-index-core
-llama-index-llms-openai
-llama-index-embeddings-openai
+llama-index-llms-openai-like==0.8.0
+llama-index-embeddings-fastembed==0.7.0
+fastembed==0.8.0
+tokenizers
 openai
 python-dotenv
 SQLAlchemy

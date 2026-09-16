@@ -8,7 +8,8 @@ from everydayai_chatbot.conversation_db import (
 )
 from everydayai_chatbot.knowledge import build_query_engine as build_rag_query_engine
 from everydayai_chatbot.knowledge import load_index
-from everydayai_chatbot.settings import get_openai_api_key, load_settings
+from everydayai_chatbot.groq import describe_api_error
+from everydayai_chatbot.settings import get_groq_api_key, load_settings
 
 
 SETTINGS = load_settings()
@@ -25,14 +26,15 @@ def get_data_layer():
 
 @cl.cache
 def get_index():
-    return load_index(SETTINGS, get_openai_api_key())
+    return load_index(SETTINGS)
 
 
 def build_query_engine():
+    api_key = get_groq_api_key()
     return build_rag_query_engine(
         settings=SETTINGS,
         index=get_index(),
-        api_key=get_openai_api_key(),
+        api_key=api_key,
     )
 
 
@@ -63,7 +65,7 @@ async def stream_query_response(query_text: str) -> None:
         response_message.content = str(response)
         await response_message.update()
     except Exception as exc:
-        response_message.content = f"Sorry, I ran into an error while answering: {exc}"
+        response_message.content = describe_api_error(exc)
         await response_message.update()
 
 
@@ -74,11 +76,14 @@ async def on_chat_start() -> None:
 
     try:
         await ensure_conversation_logging_ready()
-        cl.user_session.set("query_engine", build_query_engine())
+        cl.user_session.set("query_engine", await cl.make_async(build_query_engine)())
         await loading_message.remove()
         await cl.Message(content="Hi! What would you like to know about us?").send()
     except Exception as exc:
-        loading_message.content = f"Startup failed: {exc}"
+        if isinstance(exc, RuntimeError) and str(exc) == "GROQ_API_KEY is missing from the environment.":
+            loading_message.content = str(exc)
+        else:
+            loading_message.content = "Startup failed. Check the model settings, embedding download connection, and storage permissions."
         await loading_message.update()
 
 

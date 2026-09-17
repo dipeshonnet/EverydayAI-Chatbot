@@ -59,6 +59,7 @@ class PersistenceDashboardTests(unittest.IsolatedAsyncioTestCase):
                         "id": str(uuid.uuid4()), "threadId": thread_id,
                         "name": "User" if kind == "user_message" else "Assistant",
                         "type": kind, "output": text, "streaming": False,
+                        "autoCollapse": False,
                         "createdAt": "2026-09-16T10:00:00Z",
                     })
 

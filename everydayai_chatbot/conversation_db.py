@@ -46,6 +46,7 @@ CREATE TABLE IF NOT EXISTS steps (
     "language" TEXT,
     "indent" INT,
     "defaultOpen" BOOLEAN,
+    "autoCollapse" BOOLEAN,
     "modes" JSONB,
     FOREIGN KEY ("threadId") REFERENCES threads("id") ON DELETE CASCADE
 );
@@ -76,6 +77,11 @@ CREATE TABLE IF NOT EXISTS feedbacks (
     "comment" TEXT,
     FOREIGN KEY ("threadId") REFERENCES threads("id") ON DELETE CASCADE
 );
+"""
+
+# CREATE TABLE does not update databases created by older Chainlit versions.
+CHAINLIT_MIGRATIONS_SQL = """
+ALTER TABLE steps ADD COLUMN IF NOT EXISTS "autoCollapse" BOOLEAN;
 """
 
 
@@ -125,6 +131,7 @@ async def ensure_chainlit_schema(attempts: int = 5, retry_delay_seconds: float =
             conn = await asyncpg.connect(strip_unsupported_asyncpg_params(to_asyncpg_url(database_url)))
             try:
                 await conn.execute(CHAINLIT_SCHEMA_SQL)
+                await conn.execute(CHAINLIT_MIGRATIONS_SQL)
                 return
             finally:
                 await conn.close()

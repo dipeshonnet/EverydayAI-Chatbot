@@ -1,3 +1,5 @@
+from threading import Lock
+
 import chainlit as cl
 from chainlit.data.sql_alchemy import SQLAlchemyDataLayer
 
@@ -13,6 +15,7 @@ from everydayai_chatbot.settings import get_groq_api_key, load_settings
 
 
 SETTINGS = load_settings()
+INDEX_LOCK = Lock()
 
 
 @cl.data_layer
@@ -31,9 +34,12 @@ def get_index():
 
 def build_query_engine():
     api_key = get_groq_api_key()
+    # Concurrent/reconnecting sessions must not build multiple model instances.
+    with INDEX_LOCK:
+        index = get_index()
     return build_rag_query_engine(
         settings=SETTINGS,
-        index=get_index(),
+        index=index,
         api_key=api_key,
     )
 

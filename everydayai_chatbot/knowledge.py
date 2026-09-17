@@ -22,7 +22,10 @@ def get_embedding_model(model_name: str, cache_dir: str) -> FastEmbedEmbedding:
         model_name=model_name,
         cache_dir=cache_dir,
         providers=["CPUExecutionProvider"],
-        threads=2,
+        threads=1,
+        # Keep inference within small hosting plans' memory limits.
+        embed_batch_size=1,
+        enable_cpu_mem_arena=False,
     )
 
 

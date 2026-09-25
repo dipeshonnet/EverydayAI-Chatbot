@@ -1,0 +1,14 @@
+/* Loaded inside the Copilot shadow root via mountChainlitWidget.customCssUrl. */
+#chainlit-copilot-chat > div:first-child {
+  align-items: center;
+  padding: 8px 12px;
+  flex-shrink: 0;
+}
+
+/* The SVG has transparent margins: 48px produces a roughly 24px visible mark. */
+#chainlit-copilot-chat > div:first-child img.logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
